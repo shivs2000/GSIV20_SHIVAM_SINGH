@@ -150,7 +150,7 @@ return (
            <b>Cast:</b>
                {cast.filter((val)=>{
                 return val.known_for_department=='Acting';
-                  }).map((val)=>(<>{val.name}</>))}
+                  }).map((val)=>(<>{val.name},</>))}
            
        </Typography>
        <Typography className={classes.info} style={{fontSize:16,color:"#4A4A4A"}}>
