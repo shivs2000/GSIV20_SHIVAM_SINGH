@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# MOVIEZ APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+simple react -app using movidb Api
 
-## Available Scripts
-
-In the project directory, you can run:
+## HOW TO RUN
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##  TESTING 
+Although I didn't used jest or detox because of time constraint but i've run this in selenium ide .
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### HOW TO USE SELENIUM IDE
+1) DOWNLOAD SELENIUM EXTENSION IN CHROME  
+2) OPEN THAT AND OPEN THIS SELENIUM FOLDER .SIDE FILE INTO IT
+3) RUN THAT TEST
+4) IT WILL RUN AUTOMATICALLY
 
-### `npm test`
+## CHALLENGES I'VE DONE WELL
+1) I'VE USED react-infinite-scroll-componet ,easy to use and comes in handy instead of using javascript dom window function.
+2) For ui i've used material-ui a real time saver instead of using normal css.
+3) For searching inputbase from material-ui was really handy it handled input amazingly instead of normal input or text input where input and search button is handled.
+4) For infinite movies, cards were used with less efforts and placing images into media and contents into card content.
+5) For routing to description of the card i used routing parameters although it can be done through redux too but it was easy and clean.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## IF i HAD MORE TIME
+1) Most important one if i had more time i would have used jest for testing although that's new for me.
+2) i would have changed that list unique key warning that is appearing because of duplicate values in db.Maybe by fetching unique movies_by_id and pushing in array
+3) Although application is not breaking at any point but still there are small changes i could've done in going back functionality of listpage.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## FEEDBACK
+1)The using of redux was good but there's not much use of redux in here because global variables are not needed much so functionalities like login through firebase is good to     test redux.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
