@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/GSIV20_SHIVAM_SINGH/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/GSIV20_SHIVAM_SINGH/static/js/main.6b6ea72f.chunk.js",
-    "main.js.map": "/GSIV20_SHIVAM_SINGH/static/js/main.6b6ea72f.chunk.js.map",
+    "main.js": "/GSIV20_SHIVAM_SINGH/static/js/main.f226717c.chunk.js",
+    "main.js.map": "/GSIV20_SHIVAM_SINGH/static/js/main.f226717c.chunk.js.map",
     "runtime-main.js": "/GSIV20_SHIVAM_SINGH/static/js/runtime-main.6375dc71.js",
     "runtime-main.js.map": "/GSIV20_SHIVAM_SINGH/static/js/runtime-main.6375dc71.js.map",
-    "static/js/2.5725ebf2.chunk.js": "/GSIV20_SHIVAM_SINGH/static/js/2.5725ebf2.chunk.js",
-    "static/js/2.5725ebf2.chunk.js.map": "/GSIV20_SHIVAM_SINGH/static/js/2.5725ebf2.chunk.js.map",
+    "static/js/2.a60cbbbf.chunk.js": "/GSIV20_SHIVAM_SINGH/static/js/2.a60cbbbf.chunk.js",
+    "static/js/2.a60cbbbf.chunk.js.map": "/GSIV20_SHIVAM_SINGH/static/js/2.a60cbbbf.chunk.js.map",
     "static/js/3.498ee9b5.chunk.js": "/GSIV20_SHIVAM_SINGH/static/js/3.498ee9b5.chunk.js",
     "static/js/3.498ee9b5.chunk.js.map": "/GSIV20_SHIVAM_SINGH/static/js/3.498ee9b5.chunk.js.map",
     "index.html": "/GSIV20_SHIVAM_SINGH/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/GSIV20_SHIVAM_SINGH/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.5725ebf2.chunk.js.LICENSE.txt": "/GSIV20_SHIVAM_SINGH/static/js/2.5725ebf2.chunk.js.LICENSE.txt"
+    "static/js/2.a60cbbbf.chunk.js.LICENSE.txt": "/GSIV20_SHIVAM_SINGH/static/js/2.a60cbbbf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6375dc71.js",
-    "static/js/2.5725ebf2.chunk.js",
+    "static/js/2.a60cbbbf.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6b6ea72f.chunk.js"
+    "static/js/main.f226717c.chunk.js"
   ]
 }
